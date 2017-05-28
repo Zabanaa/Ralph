@@ -1,11 +1,11 @@
 #!/bin/bash
 
-""" IMPORTANT: RENAME this file to run.sh """
+# IMPORTANT: RENAME this file to run.sh
 
 # Set Environment Variables
-export KC_GMAIL_USERNAME="MY GMAIL USERNAME"
-export BG93_GMAIL_USERNAME="MY SECONDARY GMAIL USERNAME"
-export BG93_GMAIL_PASSWORD="MY SECONDARY GMAIL PASSWORD"
+export KC_GMAIL_USERNAME=""
+export BG93_GMAIL_USERNAME=""
+export BG93_GMAIL_PASSWORD=""
 
 LOG_FILE="/var/log/email_reminder.log"
 SCRIPT_PATH="/home/zabana/projects/Ralph/email_reminder/run.sh"
